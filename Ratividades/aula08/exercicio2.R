@@ -1,9 +1,6 @@
-
-```{r}
 covid <- read.csv('https://raw.githubusercontent.com/natorjunior/db-atividades/main/casos_covid_ce.csv')
 covid
-```
-```{r}
+
 sd(covid$quantidade) # Desvio Padrão
 mean(covid$quantidade) #Média quantidade
 ```

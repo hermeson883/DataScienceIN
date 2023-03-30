@@ -1,8 +1,7 @@
-```{r}
+
 dados <- read.csv('Jogadores.csv')
 dados
-```
-```{r}
+
 #Pegar as primeiras 6 linhas do DataFrame
 head(dados)
 ```
