@@ -1,3 +1,5 @@
+# Criar um programa que soma dois números inseridos pelo usuário e imprime o resultado.
+
 num1 <- as.integer(readline('digite o primeiro valor: '))
 num2 <- as.integer(readline('digite o segundo valor valor: '))
 print(num1+num2)
